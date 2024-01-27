@@ -1,2 +1,1 @@
-# 🚀 Ethereum Bolivia
-
+# 🚀 Ethereum Bolivia 2024
