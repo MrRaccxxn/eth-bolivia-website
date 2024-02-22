@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://fabiola29298.github.io/sitemap-index.xml
